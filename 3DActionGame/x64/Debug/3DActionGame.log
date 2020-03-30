@@ -1,0 +1,41 @@
+﻿  Actor.cpp
+  Audio.cpp
+  BackgroundActor.cpp
+  BoxColliderComponent.cpp
+  CameraActor.cpp
+  CameraComponent.cpp
+  Collision.cpp
+  Color.cpp
+  Component.cpp
+  DirectionalLightActor.cpp
+  FPSTextActor.cpp
+  Game.cpp
+  Graphics.cpp
+  Image.cpp
+  Input.cpp
+c:\works\3dactiongame\3dactiongame\input.cpp(92): warning C4244: '引数': 'WPARAM' から '_Elem' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Elem=char
+          ]
+c:\works\3dactiongame\3dactiongame\input.cpp(93): warning C4244: '=': 'WPARAM' から 'char' への変換です。データが失われる可能性があります。
+  Level.cpp
+  MainLevel.cpp
+  Math.cpp
+  Mesh.cpp
+  MeshComponent.cpp
+  コードを生成中...
+  コンパイル中...
+  Physics.cpp
+  PlatformActor.cpp
+  PlayerActor.cpp
+  Renderer.cpp
+  SpriteComponent.cpp
+  Text.cpp
+  TextComponent.cpp
+  Texture.cpp
+  TransformComponent.cpp
+  UITransformComponent.cpp
+  WinMain.cpp
+  コードを生成中...
+  3DActionGame.vcxproj -> C:\Works\3DActionGame\x64\Debug\3DActionGame.exe
